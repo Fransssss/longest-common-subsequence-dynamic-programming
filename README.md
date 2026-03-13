@@ -21,3 +21,6 @@ We build a $(m+1) \times (n+1)$ table, where $m$ and $n$ are the string lengths.
 	python main.py
 	```
 3. Choose whether to watch the slow-paced DP table animation (default **Yes**) and enter the two strings when prompted. The script prints the DP table, the LCS length, and one actual subsequence.
+
+## Video Demo
+If video not show, open the video directly from the repo (.mp4 file)
