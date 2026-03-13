@@ -100,6 +100,14 @@ The actual subsequence is recovered by **backtracking** from `dp[m][n]` to `dp[0
 
 ---
 
+## Video Demo
+
+Watch the LCS Dynamic Programming demonstration below:
+
+[LcsDP.mp4](LcsDP.mp4)
+
+---
+
 ## Complexity
 
 | | Complexity |
